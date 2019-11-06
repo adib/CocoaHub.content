@@ -1,0 +1,14 @@
+{
+    "title": "Automate Notarization and Packaging for your Developer ID Applications",
+    "edition": 21,
+    "tags": ["tooling", "workflow", "tipsAndTricks"],
+    "url": "https://cutecoder.org/programming/notarize-disk-image-developer-id-distribution/",
+    "author": {
+        "name": "Sasmito Adibowo",
+        "url": "https://twitter.com/sasmitoadibowo"
+    },
+    "curator": {
+        "name": "Sasmito Adibowo",
+        "url": "https://twitter.com/sasmitoadibowo"
+    }
+}
